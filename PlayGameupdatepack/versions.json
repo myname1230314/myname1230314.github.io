@@ -1,4 +1,6 @@
 {
     "name": "PlayGame",
-    "versions": "V7.0"
+    "version": "V7.0",
+    "updateLog": "修复了部分问题，更新了一些新功能",
+    "updateTime": "2025-06-25"
 }
