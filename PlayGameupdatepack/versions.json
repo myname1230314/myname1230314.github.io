@@ -1,6 +1,6 @@
 {
     "name": "PlayGame",
-    "version": "V7.1",
-    "updateLog": "修复了部分问题，更新了一些新功能，并测试更新",
-    "updateTime": "2025-06-25"
+    "version": "V7.2",
+    "updateLog": "修复了更新失败的问题，启动OTA云端更新测试",
+    "updateTime": "2025-06-27"
 }
