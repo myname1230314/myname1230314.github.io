@@ -1,6 +1,6 @@
 {
     "name": "PlayGame",
-    "version": "V7.4",
-    "updateLog": "重新测试OTA升级",
-    "updateTime": "2025-06-27"
+    "version": "V7.5",
+    "updateLog": "优化了诸多问题，增加了串口协议、适配蓝牙手柄",
+    "updateTime": "2025-07-07"
 }
